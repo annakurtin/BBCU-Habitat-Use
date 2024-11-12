@@ -1,0 +1,29 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.csv
+*.xlsx
+*.tif
+*.jpeg
+*.gif
+*.xml
+*.shp
+*.txt
+*.wav
+*.mp3
+*.jpg
+*.pdf
+*.Rdata
+*.html
+R_Scripts/2_Analyses/Habitat_Chapter/**/*.html
+
+# Folders
+Data/
+Deliverables/
+Archive/
+External_R_Code/
+Python_Scripts/BBCU_YBCU_Call_Training/Training_Packet
+Python_Scripts/BBCU_YBCU_Call_Training/.ipynb_checkpoints/*.ipynb
+#Do this for raw data and for outputs
